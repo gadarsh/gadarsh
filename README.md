@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adarsh
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning a student
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me at gadarsh61@gmail.com
